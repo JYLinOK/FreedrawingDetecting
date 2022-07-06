@@ -255,7 +255,7 @@ def parse_opt(new_data_dict):
 
 
     # _____________________________________________________________________________________________________________
-    parser.add_argument('--source', type=str, default=1, help='file/dir/URL/glob, 0 for webcam')
+    parser.add_argument('--source', type=str, default=0, help='file/dir/URL/glob, 0 for webcam')
     # parser.add_argument('--source', type=str, default='rtsp://url', help='file/dir/URL/glob, 0 for webcam')
     # _____________________________________________________________________________________________________________
 
