@@ -1,7 +1,7 @@
 # FreedrawingDetecting
 Code Source of Multi-area Target Individual Detection with Free Drawing on Video 
 
-## 1. Run the mainl.py to run the code.
+## 1. Run the main.py to run the code.
 ## 2. Set the follow code to set the coresponding camera used to detect:
 
 parser.add_argument('--source', type=str, default=1, help='file/dir/URL/glob, 0 for webcam')
